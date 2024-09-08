@@ -1,4 +1,4 @@
-# AmazonPrimeMovieRecommendation
+# AmazonPrimeMovieRecommendationSystem
 This project analyzes the Amazon Prime Titles dataset and implements an exploratory data analysis (EDA) and a movie recommendation system using cosine similarity. The code covers data cleaning, visualization, and building a content-based recommendation system based on the cast, director, and other features.
 
 Key Features:
